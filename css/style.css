@@ -67,7 +67,7 @@ textarea.form-control {
 
 .btn.btn-outline-primary {
   border-width: 2px;
-  color: #ffc107;
+  color: #79A838;
 }
 
 .btn.btn-outline-primary:hover, .btn.btn-outline-primary:focus, .btn.btn-outline-primary:active {
@@ -116,7 +116,7 @@ header .navbar-brand.absolute {
 }
 
 header .navbar-brand span {
-  color: #ffc107;
+  color: #79A838;
 }
 
 header .navbar {
@@ -182,12 +182,12 @@ header .navbar .dropdown-menu:before {
 }
 
 header .navbar .dropdown-menu .dropdown-item:hover {
-  background: #ffc107;
+  background: #79A838;
   color: #fff;
 }
 
 header .navbar .dropdown-menu .dropdown-item.active {
-  background: #ffc107;
+  background: #79A838;
   color: #fff;
 }
 
@@ -197,7 +197,7 @@ header .navbar .dropdown-menu a {
 }
 
 header .navbar .cta-btn a {
-  background: #ffc107;
+  background: #79A838;
   color: #000 !important;
   padding-left: 20px !important;
   padding-right: 20px !important;
@@ -256,7 +256,7 @@ header .navbar .cta-btn a:hover {
 }
 
 .upcoming-events-highlight .section-heading {
-  background: #ffc107;
+  background: #79A838;
   padding: 2px 15px;
   display: inline-block;
   font-size: 11px;
@@ -283,7 +283,7 @@ header .navbar .cta-btn a:hover {
 }
 
 .upcoming-events-highlight .counter-number-item {
-  background: #ffc107;
+  background: #79A838;
   width: 100%;
   padding: 20px;
   text-align: center;
@@ -299,7 +299,7 @@ header .navbar .cta-btn a:hover {
 }
 
 .upcoming-events-highlight #date-countdown .countdown-block {
-  background: #ffc107;
+  background: #79A838;
   color: #fff;
   padding: 20px;
   width: 20%;
@@ -388,7 +388,7 @@ header .navbar .cta-btn a:hover {
 }
 
 .section-heading {
-  background: #ffc107;
+  background: #79A838;
   padding: 2px 15px;
   display: inline-block;
   font-size: 11px;
@@ -463,7 +463,7 @@ header .navbar .cta-btn a:hover {
 
 .custom-icon {
   font-size: 70px;
-  color: #ffc107;
+  color: #79A838;
 }
 
 /* Owl Carousel */
@@ -716,7 +716,7 @@ header .navbar .cta-btn a:hover {
   position: relative;
   width: 0px;
   font-size: 30px;
-  color: #ffc107;
+  color: #79A838;
 }
 
 .load-more {
@@ -729,7 +729,7 @@ header .navbar .cta-btn a:hover {
 }
 
 .load-more:hover {
-  background: #ffc107;
+  background: #79A838;
   color: #fff;
 }
 
@@ -769,7 +769,7 @@ header .navbar .cta-btn a:hover {
   -webkit-transform: translateX(-50%);
   -ms-transform: translateX(-50%);
   transform: translateX(-50%);
-  background: #ffc107;
+  background: #79A838;
 }
 
 .text-black {
@@ -798,7 +798,7 @@ header .navbar .cta-btn a:hover {
 
 .media-feature .icon {
   font-size: 60px;
-  color: #ffc107;
+  color: #79A838;
 }
 
 .media-feature h3 {
@@ -813,7 +813,7 @@ header .navbar .cta-btn a:hover {
   -ms-transform: scale(1.05);
   transform: scale(1.05);
   z-index: 2;
-  border-bottom: 10px solid #ffc107;
+  border-bottom: 10px solid #79A838;
 }
 
 .media-custom {
@@ -918,7 +918,7 @@ header .navbar .cta-btn a:hover {
 }
 
 .site-footer a {
-  color: #ffc107;
+  color: #79A838;
   border-bottom: 1px solid transparent;
 }
 
