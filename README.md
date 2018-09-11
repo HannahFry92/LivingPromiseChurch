@@ -1,1 +1,2 @@
-# LivingPromiseChurch
+# colorlib-template
+
