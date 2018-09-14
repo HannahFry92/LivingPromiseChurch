@@ -221,8 +221,11 @@ header .navbar .cta-btn a:hover {
   border-bottom: 1px solid #2e2e2e;
 }
 
-.half .text, .half .image {
-  width: 50%;
+.half .text {
+  width: 25%;
+}
+.half .image {
+  width: 75%;
 }
 
 @media (max-width: 991px) {
