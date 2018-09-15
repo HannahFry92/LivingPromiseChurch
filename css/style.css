@@ -221,13 +221,6 @@ header .navbar .cta-btn a:hover {
   border-bottom: 1px solid #2e2e2e;
 }
 
-.half .text {
-  width: 25%;
-}
-.half .image {
-  width: 75%;
-}
-
 @media (max-width: 991px) {
   .half .text, .half .image {
     width: 100%;
@@ -240,11 +233,13 @@ header .navbar .cta-btn a:hover {
 
 .half .text {
   padding: 2%;
+  width: 25%;
 }
 
 .half .image {
   background-size: cover;
-  background-position: center center;
+  background-position: top center;
+  width: 75%;
 }
 
 @media (max-width: 991px) {
