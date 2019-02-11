@@ -39,7 +39,7 @@
   //   );
   // });
 
-  $('#date-countdown').countdown('2019/02/09 16:00:00', function(event) {
+  $('#date-countdown').countdown('2019/09/28 16:00:00', function(event) {
   var $this = $(this).html(event.strftime(''
     + '<span class="countdown-block"><span class="label">%w</span> weeks </span>'
     + '<span class="countdown-block"><span class="label">%d</span> days </span>'
