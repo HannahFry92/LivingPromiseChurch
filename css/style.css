@@ -237,8 +237,9 @@ header .navbar .cta-btn a:hover {
 }
 
 .half .image {
-  background-size: cover;
-  background-position: top center;
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
    /* width: 75%;*/
 }
 
