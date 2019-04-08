@@ -248,6 +248,12 @@ header .navbar .cta-btn a:hover {
   }
 }
 
+@media (max-width: 991px) {
+  .half .image {
+    height: 500px;
+  }
+}
+
 .upcoming-events-highlight {
   border-bottom: 1px solid #2e2e2e;
   padding: 3em 0;
