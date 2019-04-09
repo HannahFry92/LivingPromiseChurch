@@ -395,6 +395,14 @@ header .navbar .cta-btn a:hover {
   margin-right: auto;
 }
 
+.img-announcement {
+  width:50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom:10%
+}
+
 .pastor .position {
   opacity: .5;
   margin-bottom: 10px;
