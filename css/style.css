@@ -384,6 +384,28 @@ header .navbar .cta-btn a:hover {
   opacity: .5;
   margin-bottom: 10px;
 }
+.section-sermon {
+  background:#262626  
+}
+.section-sermon .section-heading {
+  background:#79A838;
+  padding: 2px 15px;
+  display: inline-block;
+  font-size: 11px;
+  color: #fff;
+  text-transform: uppercase;
+  letter-spacing: .2em;
+  margin-bottom: 15px;
+
+}
+.section-sermon h2 {
+  font-size: 20px;
+  font-family: "Playfair Display", times, serif;
+}
+
+.section-sermon h2 a {
+  color: #fff;
+}
 
 .pastor p {
   margin-bottom: 30px;
