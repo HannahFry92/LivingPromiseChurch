@@ -390,6 +390,12 @@ header .navbar .cta-btn a:hover {
   margin-bottom:10%
 }
 
+@media (max-width: 991px) {
+  .img-announcement {
+    width:100%;
+  }
+}
+
 .pastor .position {
   opacity: .5;
   margin-bottom: 10px;
