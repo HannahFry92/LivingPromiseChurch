@@ -243,13 +243,18 @@ header .navbar .cta-btn a:hover {
    /* width: 75%;*/
 }
 
-@media (max-width: 800px) {
+@media (min-width: 100px) {
   .half .image {
-    height: 150px;
+    height: 300px;
+  }
+}
+@media (min-width: 500px) {
+  .half .image {
+    height: 400px;
   }
 }
 
-@media (max-width: 1200px) {
+@media (min-width: 1200px) {
   .half .image {
     height: 500px;
   }
