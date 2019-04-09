@@ -55,11 +55,13 @@ textarea.form-control {
 .btn.btn-primary {
   color: #fff;
   border-width: 2px;
+  border-color: #79A838;
+  background: #79A838;
 }
 
 .btn.btn-primary:hover, .btn.btn-primary:active, .btn.btn-primary:focus {
-  border-color: #ffce3a;
-  background: #ffce3a;
+  border-color: #79A838;
+  background: #c9dcaf;
 }
 
 .btn.btn-sm {
@@ -213,8 +215,8 @@ header .navbar .cta-btn a {
 
 header .navbar .cta-btn a:hover {
   color: #fff !important;
-  -webkit-box-shadow: 2px 0 30px -5px rgba(255, 193, 7, 0.9);
-  box-shadow: 2px 0 30px -5px rgba(255, 193, 7, 0.9);
+  -webkit-box-shadow: 2px 0 30px -5px rgba(121, 168, 56, 0.9);
+  box-shadow: 2px 0 30px -5px rgba(121, 168, 56, 0.9);
 }
 
 .half {
