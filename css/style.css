@@ -391,6 +391,19 @@ header .navbar .cta-btn a:hover {
 }
 
 @media (max-width: 991px) {
+  .img-announcement , .img-about {
+    width:100%;
+  }
+}
+
+.img-about {
+  width:50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@media (max-width: 991px) {
   .img-announcement {
     width:100%;
   }
