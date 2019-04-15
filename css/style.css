@@ -404,7 +404,7 @@ header .navbar .cta-btn a:hover {
 }
 
 @media (max-width: 991px) {
-  .img-announcement {
+  .img-announcement, .img-about {
     width:100%;
   }
 }
