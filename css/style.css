@@ -387,7 +387,7 @@ header .navbar .cta-btn a:hover {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  margin-bottom:10%
+  /*margin-bottom:10% */
 }
 
 .img-about {
